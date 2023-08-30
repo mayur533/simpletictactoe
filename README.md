@@ -8,7 +8,7 @@ Two-player mode, win/tie detection, replay option.
 # Requirements: 
 Python, Tkinter
 
-#Usage: 
+# Usage: 
 Run `python tic_tac_toe.py`, click cells to play.
 
 - Enjoy the game!
